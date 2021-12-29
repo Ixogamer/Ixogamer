@@ -1,10 +1,6 @@
 <h1 align="center">Hi! , I'm Gumi</h1>
 <h3 align="center">A 16 year old genius.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ixogamer&label=Profile%20views&color=0e75b6&style=flat" alt="ixogamer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ixogamer" alt="ixogamer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/guwumi" target="blank"><img src="https://img.shields.io/twitter/follow/guwumi?logo=twitter&style=for-the-badge" alt="guwumi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
