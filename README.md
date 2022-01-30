@@ -9,7 +9,7 @@
 
 - I’m currently learning **Python, HTML, and Css.**
 
-- ⚡ Fun fact **I have more IQ than 99,99% of the population, though I am a League of Legends player. it do be crazy**
+- ⚡ Fun fact **I used to code Java, now I shit on it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
