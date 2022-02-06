@@ -7,9 +7,7 @@
 
 - I’m currently working on [2b2t-discord-bot](https://github.com/Ixogamer/2b2t-priority-discord-bot-py)
 
-- I’m currently learning **Python, HTML, and Css.**
-
-- ⚡ Fun fact **I used to code Java, now I shit on it.**
+- I’m currently learning **Python, HTML, and CSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
