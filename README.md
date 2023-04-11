@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは！「Hello!」 恵です！「めぐみ」[My name is Megumi]</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvmii&label=Profile%20views&color=0e75b6&style=flat" alt="gvmii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvmii" alt="gvmii" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gvmii&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/megumean_v2" target="blank"><img src="https://img.shields.io/twitter/follow/megumean_v2?logo=twitter&style=for-the-badge" alt="megumean_v2" /></a> </p>
 
